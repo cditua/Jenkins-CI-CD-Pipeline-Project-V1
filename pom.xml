@@ -33,7 +33,7 @@
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <url>http://20.0.27.1198081/repository/maven-releases/</url>
+            <url>http://20.0.27.119:8081/repository/maven-releases/</url>
         </repository>
   </distributionManagement>
 
